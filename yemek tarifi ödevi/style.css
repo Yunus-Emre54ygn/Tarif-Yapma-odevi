@@ -1,0 +1,83 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    background: linear-gradient(to bottom left, #F06923, #F9CD95);
+    color: #2E2E2E;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background:linear-gradient(to bottom left, #da2910, #ed623a);
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #551A18;
+    margin: 0;
+}
+
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+h2 {
+    font-size: 22px;
+    margin: 15px 0;
+}
+
+section {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 15px;
+    background-color: #F7F4F3;
+    border-radius: 8px;
+}
+
+.tarif-gorsel {
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #F7F4F3;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.tarif-gorsel img {
+    width: 90%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #E0D9D3;
+}
+
+footer {
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
